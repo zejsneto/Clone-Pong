@@ -10,7 +10,13 @@ Link: [Play Game](https://zejsneto.itch.io/pong)<br>
 
 ## 👁️‍🗨️ Preview
 <p align="center">
-  <img width="70%" src="/repository-imgs/img01.png" />
+  <img width="70%" src="/repository-assets/img1.jpg" />
+</p>
+<p align="center">
+  <img width="70%" src="/repository-assets/img2.jpg" />
+</p>
+<p align="center">
+  <img width="70%" src="/repository-assets/img3.jpg" />
 </p>
 
 ---

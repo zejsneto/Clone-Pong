@@ -2,7 +2,7 @@
 
 ## ℹ️ Description
 
-A clone of the classic Pong gamex, developed using Unity.
+A clone of the classic Pong gamex, developed using Unity. The project contains a single-player and a two-players mode. There is also a button to mute the game and a resolution menu.
 
 Link: [Play Game](LINK)<br>
 

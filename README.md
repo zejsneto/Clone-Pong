@@ -4,7 +4,7 @@
 
 A clone of the classic Pong gamex, developed using Unity. The project contains a single-player and a two-players mode. There is also a button to mute the game and a resolution menu.
 
-Link: [Play Game](LINK)<br>
+Link: [Play Game](https://zejsneto.itch.io/pong)<br>
 
 ---
 

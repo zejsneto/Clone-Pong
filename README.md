@@ -24,6 +24,7 @@ Link: [Play Game](https://zejsneto.itch.io/pong)<br>
 ## 🛠️ **Technologies**
 
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
 
 ---
 
